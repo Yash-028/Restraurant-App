@@ -14,4 +14,4 @@ It also has an admin dashboard where the admin can check:-<br/>
 -deatils of a users<br/>
 -all the table bookings<br/>
 
-The app is hosted on Heroku:-  The app will be Hosted Soon as it is expired due to premium subcription expired
+## The app is hosted on Heroku:-  The app will be Hosted Soon as it is expired due to premium subcription expired
