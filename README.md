@@ -1,5 +1,5 @@
 # ReactRestaurantApp
-<a href="movie-info-app-191a2.web.app" target="_blank">Restaurant App</a>
+<a href="https://movie-info-app-191a2.web.app/" target="_blank">Restaurant App</a>
 This right here is a MERN stack Restaurant app. Its one of my personal projects.<br/>
 It has all the basic functionalities like Signup, Login( login with Google is also an option ), Updating you details, etc.<br/>
 This app also has a working Mongodb Database where all the data is stored.<br/>
